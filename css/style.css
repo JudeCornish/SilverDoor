@@ -513,6 +513,10 @@ p {
 	width: 100%;
 }
 
+.section3 .product-left video {
+	width: 100%;
+}
+
 .section3 p {
 	margin-bottom: 1vh;
 }
@@ -690,8 +694,8 @@ footer {
 }
 
 .ul-margin {
-	margin-top: 3vh;
-	margin-bottom: 3vh;
+	margin-top: 1.5vh;
+	margin-bottom: 1.5vh;
 	margin-left: 20px;
 	list-style: circle;
 	font-weight: 100;
